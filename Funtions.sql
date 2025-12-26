@@ -1,5 +1,5 @@
 Assignments- Functions
-Name- Md MAshuk Ali
+Name- Md Mashuk Ali
 
 
 CREATE DATABASE IF NOT EXISTS student_performance_db; 
